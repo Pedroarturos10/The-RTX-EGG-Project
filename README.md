@@ -2,8 +2,15 @@
 
 # The-RTX-EGG-Project
 WARNING: THIS IS A ROBLOX PROJECT
+
+
+
+
+#
+
  Im a Noob lua Dev
  
+ #
  ![image](https://user-images.githubusercontent.com/108150366/186810751-e2491685-32b0-43f7-a61d-07c4a1f622d2.png)
 
 ![image](https://user-images.githubusercontent.com/108150366/186810770-0baba9b9-740b-4c16-81f5-ba8422d81dbd.png)
