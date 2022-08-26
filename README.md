@@ -1,19 +1,57 @@
 ![image](https://user-images.githubusercontent.com/108150366/186810721-5a148ba9-e1b0-4657-953b-ec5891e466b6.png)
 
-# The-RTX-EGG-Project
+# 
 WARNING: THIS IS A ROBLOX PROJECT
 
 
+# Content
+
+1.- The Egg Model (fbx)
 
 
-#
+
+
+2.- The Lua Scripts
+
+
+
+
+
+3.- The Game (.rblx)
+
+
+
+
+# About me
 
  Im a Noob lua Dev
  
  #
- ![image](https://user-images.githubusercontent.com/108150366/186810751-e2491685-32b0-43f7-a61d-07c4a1f622d2.png)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ # WARNING 2 :
+ 
+ ![image](https://user-images.githubusercontent.com/108150366/186810751-e2491685-32b0-43f7-a61d-07c4a1f622d2.png) -- The last thing that u have to know
 
-![image](https://user-images.githubusercontent.com/108150366/186810770-0baba9b9-740b-4c16-81f5-ba8422d81dbd.png)
+![image](https://user-images.githubusercontent.com/108150366/186810770-0baba9b9-740b-4c16-81f5-ba8422d81dbd.png) --if you copy the assets of this game
 
 ![image](https://user-images.githubusercontent.com/108150366/186810777-2ddf3e3b-2760-46e1-b612-1e7986afba74.png)
 
