@@ -1,0 +1,5 @@
+local sky = Instance.new("Sky", game.Lighting)
+sky.Name = math.random(0,1000000)
+sky.SkyboxBk = "http://www.roblox.com/asset/?id=36654634"
+sky.SkyboxDn = "http://www.roblox.com/asset/?id=36654634"
+sky.SkyboxFt = "http://www.roblox.com/asset/?id=36654634"
